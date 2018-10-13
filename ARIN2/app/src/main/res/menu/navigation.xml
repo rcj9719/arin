@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/prev_button"
+        android:title="@string/prev_text"
+        android:icon="@drawable/ic_prev_icon"
+        android:textColor="#FFFFFF"/>
+
+    <item
+        android:id="@+id/next_button"
+        android:title="@string/next_text"
+        android:icon="@drawable/ic_next_icon"
+        android:textColor="#FFFFFF"/>
+
+
+</menu>

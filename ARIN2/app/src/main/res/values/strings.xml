@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ARIN</string>
+    <string name="tab_text_1">User Guide</string>
+    <string name="tab_text_2">Way Finder</string>
+    <string name="prev_text">Prev Step</string>
+    <string name="next_text">Next Step</string>
+    <string name="proceed_button">Proceed>>></string>
+    <string name="select_dest">Select Destination</string>
+    <string-array name="destinations">
+        <item>Room 101</item>
+        <item>Room 102</item>
+        <item>Room 103</item>
+        <item>Room 104</item>
+        <item>Room 105</item>
+        <item>Room 106</item>
+        <item>Room 107</item>
+        <item>Washroom</item>
+        <item>HOD Cabin</item>
+        <item>Entrance</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
