@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Mon Nov 12 23:55:00 IST 2018
+7.path=classes.dex
+2.base=H\:\\PCCOE\\ARIN\\MLKitText\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+5.set=DEX
+0.path=lib/armeabi-v7a/libtensorflowlite_jni.so
+2.baseType=DIRECTORY
+3.base=H\:\\PCCOE\\ARIN\\MLKitText\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+7.baseType=DIRECTORY
+2.set=NATIVE_RESOURCE
+1.path=classes.dex
+4.base=H\:\\PCCOE\\ARIN\\MLKitText\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+7.set=DEX
+count=8
+5.baseType=DIRECTORY
+2.path=lib/arm64-v8a/libtensorflowlite_jni.so
+5.base=H\:\\PCCOE\\ARIN\\MLKitText\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+4.set=DEX
+3.path=lib/x86_64/libtensorflowlite_jni.so
+6.base=H\:\\PCCOE\\ARIN\\MLKitText\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+3.baseType=DIRECTORY
+1.set=DEX
+4.path=classes.dex
+7.base=H\:\\PCCOE\\ARIN\\MLKitText\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+6.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=classes.dex
+0.base=H\:\\PCCOE\\ARIN\\MLKitText\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+6.path=lib/x86/libtensorflowlite_jni.so
+1.base=H\:\\PCCOE\\ARIN\\MLKitText\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE
