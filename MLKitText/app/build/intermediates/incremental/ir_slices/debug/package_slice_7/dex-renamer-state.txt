@@ -1,0 +1,4 @@
+#Tue Nov 13 00:13:10 IST 2018
+base.0=H\:\\PCCOE\\ARIN\\MLKitText\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
